@@ -1,6 +1,6 @@
 {
-  "name": "KibanaLiveDataGenerator",
-  "description": "Generate live data for Kibana demonstration",
+  "name": "HR_SLM_ScanDocuments",
+  "description": "This process helps to scan documents received regarding sick leaves statements.",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
